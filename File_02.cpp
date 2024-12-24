@@ -1,3 +1,6 @@
+//Program to find highest and lowest element in an array. 
+
+
 #include <iostream>
 using namespace std;
 
