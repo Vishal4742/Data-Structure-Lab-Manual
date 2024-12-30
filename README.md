@@ -30,15 +30,6 @@ This document outlines the experiments conducted in the AL-303 Data Structure La
 | 12        | Program to implement a graph and traverse it using Breadth First Search (BFS).                                |
 
 ---
-
-## Lab Guidelines
-
-1. **Attendance:** Regular attendance is mandatory to ensure a thorough understanding of the experiments.
-2. **Submission:**
-   - Experiment dates and submission dates must be adhered to strictly.
-   - Ensure that the work is signed off by the lab in-charge after completion.
-3. **Plagiarism:** All work submitted must be original and independently completed by the student.
-
 ---
 
 ## Objectives
