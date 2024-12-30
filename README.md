@@ -51,7 +51,10 @@ This document outlines the experiments conducted in the AL-303 Data Structure La
 
 ## Department
 **Department of CSE-AIML**
-
+**VISHAL KUMAR**
+**0126AL231142**
+**AIML 3rd B**
+  
 ---
 
 For any queries, contact your instructor or the lab in-charge.
